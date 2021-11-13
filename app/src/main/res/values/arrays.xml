@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="selection_items">
+        <item>Visualizer</item>
+        <item>Speech Recognizer</item>
+    </string-array>
+
+    <array name="colors">
+        <item>#987654</item>
+        <item>#223344</item>
+        <item>#998877</item>
+        <item>#123456</item>
+    </array>
+
+</resources>
